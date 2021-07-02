@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">点阵字体</string>
+    <string name="create">生成</string>
+    <string name="input_content">请输入内容</string>
+    <string name="show_hex">显示内容</string>
+
+</resources>

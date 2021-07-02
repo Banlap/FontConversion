@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RasterFont</string>
+    <string name="create">Create</string>
+    <string name="input_content">Please input the content</string>
+    <string name="show_hex">Show HEX</string>
+
+</resources>
